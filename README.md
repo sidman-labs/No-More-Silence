@@ -46,7 +46,7 @@ The project is designed around three ideas:
 2. **Publish responsibly** — human moderation, redaction of sensitive material, context, and a permanent right of reply.
 3. **Stay accountable** — every published card carries a disclaimer and a path to object, correct, or request removal.
 
-**এই প্রকল্পটি বাংলাভাষী কমিউনিটির জন্য তৈরি**—যেখানে অনলাইন হয়রানির শিকার হওয়া মানুষ নিরাপদে রিপোর্ট করতে পারে এবং প্রতিটি অভিযোগ  মডারেটরের মাধ্যমে যাচাই হয়।
+**এই স্ক্রিপটি বাংলাভাষী কমিউনিটির জন্য তৈরি**—যেখানে অনলাইন হয়রানির শিকার হওয়া মানুষ নিরাপদে রিপোর্ট করতে পারে এবং প্রতিটি অভিযোগ  মডারেটরের মাধ্যমে যাচাই হয়।
 
 ---
 
