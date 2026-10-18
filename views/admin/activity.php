@@ -1,0 +1,3 @@
+<section class="admin-content"><div class="admin-panel"><div class="panel-heading"><div><span class="eyebrow">স্বচ্ছতা</span><h2>সাম্প্রতিক অ্যাক্টিভিটি</h2></div></div>
+<?php if ($activity): ?><div class="activity-list activity-list-large"><?php foreach ($activity as $item): ?><article class="activity-item"><span class="activity-dot"></span><div><strong><?= e($item['action']) ?></strong><p><?= e($item['entity_type']) ?><?= $item['entity_id'] ? ' #' . (int) $item['entity_id'] : '' ?></p><small><?= e($item['email'] ?? 'সিস্টেম') ?> · <?= e(date('d M Y, H:i', strtotime($item['created_at']))) ?></small></div></article><?php endforeach; ?></div><?php else: ?><div class="admin-empty">কোনো লগ রেকর্ড নেই।</div><?php endif; ?>
+</div></section>

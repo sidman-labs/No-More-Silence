@@ -1,0 +1,1 @@
+<section class="not-found"><span class="eyebrow">404 / পেজ পাওয়া যায়নি</span><h1>এই পেজটি<br>খুঁজে পাওয়া যাচ্ছে না।</h1><p>লিংকটি ঠিক আছে কি না দেখুন, অথবা হোমপেজে ফিরে যান।</p><a class="button button-dark" href="<?= e(url('/')) ?>">হোমে ফিরুন <span aria-hidden="true">↗</span></a></section>
