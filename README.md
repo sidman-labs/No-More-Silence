@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/assets/img/og-default.svg" alt="No More Silence — Speak safely. Stand together." width="100%" />
+  <img src="public/uploads/site/4953bc49bf5ebe86759f53c5bd38fb305a2c6054.webp" alt="No More Silence — Speak safely. Stand together." width="100%" />
 </p>
 
 <h1 align="center">No More Silence</h1>
